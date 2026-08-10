@@ -1,1 +1,4 @@
-223c5184b8d80b43f2406c1d12f492d4bdacc6fd032e00c1c3fbe79ab20b568a
+local WHITELISTED_HWIDS = {
+    "3505ba5d29caaaae50e813b562880395fc9010b35f7da35d88b364a9d2d50719", -- zenu 3 day trial
+    "223c5184b8d80b43f2406c1d12f492d4bdacc6fd032e00c1c3fbe79ab20b568a", -- belche 3 day trial
+}
